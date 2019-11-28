@@ -3,7 +3,7 @@
 
 store = {isOpen = false,
 	unlockables = {
-		terminal = 1
+		terminal = 0
 	},
 
 	prices = {
